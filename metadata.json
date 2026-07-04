@@ -1,0 +1,6 @@
+{
+  "name": "Short-Form Video Cross-Posting Dashboard",
+  "description": "A centralized dashboard to schedule, manage, and cross-post short-form videos to YouTube Shorts, Instagram Reels, and Facebook Reels with automated queue pacing and safety upload limits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
